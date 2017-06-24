@@ -30,7 +30,7 @@
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
     "babel-preset-react": "^6.16.0",
-    "eslint": "^3.8.1",
+    "eslint": "^4.1.0",
     "eslint-plugin-react": "^6.4.1",
     "html-webpack-plugin": "^2.24.0",
     "webpack": "^1.13.2",
