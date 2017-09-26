@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/neverendingqs-sandbox/reactjs-bootstrap#readme",
   "dependencies": {
-    "react": "^15.3.2",
+    "react": "^16.0.0",
     "react-dom": "^15.3.2"
   },
   "devDependencies": {
