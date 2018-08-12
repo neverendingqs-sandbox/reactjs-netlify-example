@@ -13,7 +13,7 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+      "react"
     ],
     "rules": {
         "indent": ["error", 2],
@@ -22,5 +22,11 @@ module.exports = {
         "react/jsx-uses-react": ["error"],
         "react/jsx-uses-vars": ["error"],
         "semi": ["error", "always"]
-    }
+    },
+    "overrides": [{
+      "files": "**/*.test.js",
+      "env": {
+        "jest": true
+      }
+    }]
 };
